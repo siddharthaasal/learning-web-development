@@ -1,0 +1,5 @@
+ul -> bullets
+ol -> numbers
+
+../path -> go up a level in directory
+./path -> current directory 
