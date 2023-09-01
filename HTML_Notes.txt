@@ -3,3 +3,9 @@ ol -> numbers
 
 ../path -> go up a level in directory
 ./path -> current directory 
+
+
+1px = 1/96th of an inch = 0.26mm
+1pt = 0.35mm
+1em = 100 percent of parent 
+1rem = 100 percent of root  
